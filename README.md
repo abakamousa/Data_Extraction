@@ -1,4 +1,4 @@
-# webscraping
+# About
 
 This repository presents an example of extraction of data from stackoverflow . 
 
