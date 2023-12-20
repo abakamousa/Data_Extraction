@@ -6,7 +6,7 @@ This repository presents an example of extraction of data from stackoverflow .
 
 The objective of this project is to generate a dataset composed of questions, Summaries and answers extracted from stackoverflow. This dataset will help to build a chatbot.
 
-# Techniques used
+🔧 Techniques used
 In this project we used **Web scraping**, a  widely used technique for public data extraction from web pages.
 
 # Overview of the generated dataset
